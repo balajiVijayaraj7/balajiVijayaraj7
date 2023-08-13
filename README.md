@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Balaji Vijayaraj</h1>
+<h1 align="center">Hi 👋,  I'm Balaji Vijayaraj</h1>
 <h3 align="center">A passionate Data Scientist living in Sweden</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
